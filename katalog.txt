@@ -1,5 +1,16 @@
+blitz
 chrom
 dimension
+eis
 flamme
-nacht
+galaxie
 gold
+lava
+nacht
+neon
+ozean
+regenbogen
+schach
+smaragd
+sonnenuntergang
+tarnung
